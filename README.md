@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am chamen Kalindu, and I am a software technology undergraduate interested in frontend, backend and AI/ML.
+
 <!--
 **ChamenKalindu/ChamenKalindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
