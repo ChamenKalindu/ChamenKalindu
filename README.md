@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am chamen Kalindu, and I am a software technology undergraduate interested in frontend, backend and AI/ML.
-I am currenlty studying at University of Sri Jayewardenepura.
+ I am currenlty studying at University of Sri Jayewardenepura.
 
 <!--
 **ChamenKalindu/ChamenKalindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
